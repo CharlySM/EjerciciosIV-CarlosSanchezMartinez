@@ -67,3 +67,28 @@ El coste de amortazación a 4 años es **328,75**
 ### Amortización a 7 años.  
 El cálculo de la amortización es: **1315/7=187,85** 
 El coste de la añortización a 7 años es: **187,85**
+  
+    
+  
+# Ejercicio 2: Usando las tablas de precios de servicios de alojamiento en Internet “clásicos”, es decir, que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa sólo el 1% o el 10% del tiempo.  
+Para hacer la comparación se han escogido las empresas OVH y Hostalia  
+  
+* OVH ofrece:  
+  1. 250 GB de disco  
+  2. 1 dominio gratuito  
+  3. 100 cuentas de correo de 5 GB  
+  4. 4 bases de datos  
+* Hostalia ofrece:  
+  1. 100 GB de espacio  
+  2. 1 dominio gratuito  
+  3. Alojamientos de dominios ilimitados  
+  4. 50 cuentas de correo  
+El plan de OVH es de 6,04 con IVA y el de Hostalia es de 4,99 con IVA por lo tanto el plan anual de cada uno es:
+* OVH: 72,84  
+* Hostalia: 59,88  
+Usando el 1% de infraestructura tenemos que:  
+* OVH: 0,7284€/Año  
+* Hostalia: 0,5988€/Año  
+Usando el 10% de infraestructura:
+* OVH: 7,284€/Año  
+* Hostalia: 5,988€/Año  
