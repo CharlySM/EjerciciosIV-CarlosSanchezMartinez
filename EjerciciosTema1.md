@@ -105,3 +105,7 @@ Al usar una máquina virtual y escribir el comando egrep '^flags.*(vmx|svm)' /pr
 # Ejercicio 4: Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok. Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.  
 Se ha instalado el paquete kvm-ok.  
 El hipervisor instalado es virtualbox.  
+
+# Ejercicio 5: Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.  
+
+# Ejercicio 6: Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
