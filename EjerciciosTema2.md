@@ -59,4 +59,14 @@ Se han hecho usando un marco de tests (unitest) directamente.(ver enlace de proy
   
 # 4. Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión minor más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).  
   
-  ![Entorno Python](entornoPython.png "Entorno python")
+  ![Entorno Python](entornoPython.png "Entorno python")  
+  
+# 7. Crear una descripción del módulo usando package.json. En caso de que se trate de otro lenguaje, usar el método correspondiente.  
+  
+   Para el proyecto de la asignatura que esta hecho con ruby on rails se ha creado un rakefile que ejecuta entre otras ordenes la orden bundle install para que instale todas las gemas que necesita la aplicación.  
+  
+  # 9. Haced los dos primeros pasos antes de pasar al tercero.    
+  
+Añadida la integración continua usando Travis CI para automatizar la ejecución de los tests.  
+  
+[Enlace a .travis.yml del proyecto de Carlos Sanchez](https://github.com/CharlySM/Proyecto-IV/blob/master/.travis.yml)  
