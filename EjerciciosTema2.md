@@ -59,4 +59,4 @@ Se han hecho usando un marco de tests (unitest) directamente.(ver enlace de proy
   
 # 4. Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión minor más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).  
   
-  ![Con titulo](pentornoPython.png "Entorno python")
+  ![Entorno Python](entornoPython.png "Entorno python")
