@@ -52,3 +52,11 @@ class TestEquipos < Test::Unit::TestCase
   
 end  
 ~~~  
+  
+# 3. Convertir los tests unitarios anteriores con assert a programas de test y ejecutarlos desde mocha, usando descripciones del test y del grupo de test de forma correcta. Si hasta ahora no has subido el código que has venido realizando a GitHub, es el momento de hacerlo, porque lo vas a necesitar un poco más adelante.  
+  
+Se han hecho usando un marco de tests (unitest) directamente.(ver enlace de proyecto en hito 2 de carlos sanchez)
+  
+# 4. Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión minor más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).  
+  
+  ![Con titulo](pentornoPython.png "Entorno python")
