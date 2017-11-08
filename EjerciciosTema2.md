@@ -32,7 +32,8 @@ class TestEquipos < Test::Unit::TestCase
   
 end  
 ~~~  
-~~~  
+El código para el test que falla es parecido siendo el código el siguiente:
+~~~  
   require "test/unit"  
   
 class TestEquipos < Test::Unit::TestCase  
